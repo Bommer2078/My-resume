@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1999a9e-818e-434b-b6d2-649f59c83b6e" name="Default" comment="" />
+    <list default="true" id="a1999a9e-818e-434b-b6d2-649f59c83b6e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pages/single-portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages/single-portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/backgrounds/阿萨德.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/example1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/example1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/example3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/example3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/example4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/example4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pages/single-portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pages/single-portfolio.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,32 +32,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
-              <caret line="1498" column="14" selection-start-line="1498" selection-start-column="1" selection-end-line="1498" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            <state relative-caret-position="534">
+              <caret line="217" column="88" selection-start-line="217" selection-start-column="88" selection-end-line="217" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="leancloud.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/leancloud.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="pace.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/pace.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Register.vue" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Vuedemo/点餐系统/order/src/components/Register.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single-portfolio.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/pages/single-portfolio.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11145">
+              <caret line="758" column="13" selection-start-line="758" selection-start-column="13" selection-end-line="758" selection-end-column="13" />
+              <caret line="743" column="13" selection-start-line="743" selection-start-column="13" selection-end-line="743" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single-portfolio.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/pages/single-portfolio.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="single-portfolio-slideshow.js" pinned="false" current-in-tab="false">
@@ -54,7 +90,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="240">
               <caret line="16" column="19" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -63,50 +99,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.countTo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jquery.countTo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single-portfolio.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/pages/single-portfolio.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single-portfolio.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/pages/single-portfolio.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7425">
-              <caret line="495" column="19" selection-start-line="495" selection-start-column="19" selection-end-line="495" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blue.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/color-theme/portfolio/blue.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>qq</find>
-      <find>fa fa-facebook</find>
-      <find>.styler [data-bpc-class], .styler [data-r-theme]</find>
-      <find>demo</find>
       <find>text-center</find>
       <find>.port-counter</find>
       <find>.port-skill</find>
@@ -122,7 +125,6 @@
       <find>Relient Portfolio</find>
       <find>html_circle</find>
       <find>img-container</find>
-      <find>.port-showcase .social-btn.btn-circle</find>
       <find>data</find>
       <find>count</find>
       <find>.port-counter &gt; .wrapper</find>
@@ -133,6 +135,11 @@
       <find>link</find>
       <find>git</find>
       <find>fa-git-square</find>
+      <find>.port-showcase .social-btn.btn-circle</find>
+      <find>fa-qq</find>
+      <find>export</find>
+      <find>module.exports</find>
+      <find>http</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,10 +150,12 @@
       <list>
         <option value="$PROJECT_DIR$/js/pages/single-portfolio-slideshow.js" />
         <option value="$PROJECT_DIR$/css/demo.css" />
-        <option value="$PROJECT_DIR$/js/pages/single-portfolio.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/css/pages/single-portfolio.css" />
         <option value="$PROJECT_DIR$/single-portfolio-bg-slideshow.html" />
+        <option value="$PROJECT_DIR$/js/pages/single-portfolio.js" />
+        <option value="$PROJECT_DIR$/css/pages/single-portfolio.css" />
+        <option value="D:/Vuedemo/点餐系统/order/src/components/Register.vue" />
+        <option value="$PROJECT_DIR$/js/leancloud.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -161,10 +170,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="35" />
-    <option name="y" value="219" />
+    <option name="x" value="40" />
+    <option name="y" value="305" />
     <option name="width" value="1918" />
-    <option name="height" value="270" />
+    <option name="height" value="642" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,42 +186,30 @@
         <subPane>
           <expand>
             <path>
-              <item name="简历模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="简历模板" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="简历模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="简历模板" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="简历模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="简历模板" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="color-theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="简历模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="简历模板" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="简历模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="简历模板" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="简历模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="简历模板" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="简历模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="简历模板" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="pace.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -255,23 +252,26 @@
       <updated>1537594083941</updated>
       <workItem from="1537594086475" duration="21079000" />
       <workItem from="1537625933726" duration="84000" />
+      <workItem from="1537797757569" duration="12426000" />
+      <workItem from="1537870577478" duration="147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21163000" />
+    <option name="totallyTimeSpent" value="33736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15542677" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -290,12 +290,55 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/single-portfolio-bg-slideshow.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3450">
-          <caret line="230" column="183" selection-start-line="230" selection-start-column="183" selection-end-line="230" selection-end-column="183" />
+        <state relative-caret-position="3510">
+          <caret line="234" column="41" lean-forward="true" selection-start-line="234" selection-start-column="41" selection-end-line="234" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/leancloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Vuedemo/点餐系统/order/src/components/Register.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pages/single-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11145">
+          <caret line="758" column="13" selection-start-line="758" selection-start-column="13" selection-end-line="758" selection-end-column="13" />
+          <caret line="743" column="13" selection-start-line="743" selection-start-column="13" selection-end-line="743" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/single-portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/single-portfolio-slideshow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#figure#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -358,49 +401,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/owl.carousel.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17295">
-          <caret line="1165" column="52" selection-start-line="1165" selection-start-column="44" selection-end-line="1165" selection-end-column="52" />
+        <state relative-caret-position="465">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/demo.css">
+    <entry file="file://$PROJECT_DIR$/single-portfolio-bg-slideshow.html" />
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        <state relative-caret-position="22470">
+          <caret line="1498" column="14" selection-start-line="1498" selection-start-column="1" selection-end-line="1498" selection-end-column="14" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/circles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3539">
-          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/style-switcher.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/waypoints.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1471">
-          <caret line="491" column="11" selection-start-line="491" selection-start-column="11" selection-end-line="491" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/pace.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-2.1.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pace.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/pages/single-portfolio-slideshow.js">
@@ -417,13 +436,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/color-theme/portfolio/blue.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -448,27 +460,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/single-portfolio-bg-slideshow.html">
+    <entry file="file://$PROJECT_DIR$/css/color-theme/portfolio/blue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/style-switcher.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-2.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/color-theme/portfolio/blue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.countTo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="230" column="183" selection-start-line="230" selection-start-column="183" selection-end-line="230" selection-end-column="183" />
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-portfolio-bg-slideshow.html" />
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22470">
+          <caret line="1498" column="14" selection-start-line="1498" selection-start-column="1" selection-end-line="1498" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pace.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/circles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pages/single-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11145">
+          <caret line="758" column="13" selection-start-line="758" selection-start-column="13" selection-end-line="758" selection-end-column="13" />
+          <caret line="743" column="13" selection-start-line="743" selection-start-column="13" selection-end-line="743" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/waypoints.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="491" column="11" selection-start-line="491" selection-start-column="11" selection-end-line="491" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17355">
+          <caret line="1165" column="52" selection-start-line="1165" selection-start-column="44" selection-end-line="1165" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Vuedemo/点餐系统/order/src/leancloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/未确认 272543.crdownload" />
+    <entry file="file://$USER_HOME$/Downloads/av-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="79" selection-start-column="65" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/single-portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/single-portfolio-slideshow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#figure#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+    <entry file="file://D:/Vuedemo/点餐系统/order/src/components/Register.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="1498" column="14" selection-start-line="1498" selection-start-column="1" selection-end-line="1498" selection-end-column="14" />
+        <state relative-caret-position="720">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/leancloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state relative-caret-position="534">
+          <caret line="217" column="88" selection-start-line="217" selection-start-column="88" selection-end-line="217" selection-end-column="88" />
         </state>
       </provider>
     </entry>

@@ -5,14 +5,20 @@ $(document).ready(function(){
 			radius : 100,
 			value : 93,
 			width : 5,
-			colors : [ '#FCE6A4', '#EFB917' ]
+			colors : [ '#FCE6A4', '#EFB917' ],
+            text : function(value) {
+                return value + '%';
+            },
 		});
 		var css = Circles.create({
 			id : 'Vue_circle',
 			radius : 100,
 			value : 80,
 			width : 5,
-			colors : [ '#BEE3F7', '#45AEEA' ]
+			colors : [ '#BEE3F7', '#45AEEA' ],
+            text : function(value) {
+                return value + '%';
+            },
 		});
 		var js = Circles.create({
 			id : 'js_circle',
